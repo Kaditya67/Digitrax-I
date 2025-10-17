@@ -1,4 +1,4 @@
-# Digitrax-II
+# Digitrax-I
 
 An extensible, modular project combining a Python backend with a JavaScript/CSS/HTML frontend. Designed for analytics, dashboards, and web automation tasks.
 
@@ -70,3 +70,4 @@ MIT — see LICENSE file.
 
 ## Languages
 Python, JavaScript, CSS, HTML
+
